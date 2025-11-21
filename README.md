@@ -1,10 +1,9 @@
-## Projeto Final PhP
+## Projeto Final PhP ( TrocaFácil UNIPÊ )
 
 ## Descrição 
-ngfjkdnvjklvbfdjknb fgbngb nkgd hdfvgnrhvgurtjyngl
+Sistema digital que organiza ofertas de livros entre alunos, com filtros por curso e notificações, garantindo privacidade e transações seguras.
 
 ##Integrantes 
 - Lucas Heitor 
 - Jõao Miguel 
 - Bentto Felipe
-kdndkdkd
